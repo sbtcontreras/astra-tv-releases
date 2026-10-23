@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Astra TV">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b1640"/>
+      <stop offset="1" stop-color="#07060f"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c4b5fd"/>
+      <stop offset="0.55" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+  <rect x="32" y="32" width="960" height="960" rx="232" fill="url(#bg)"/>
+  <rect x="33" y="33" width="958" height="958" rx="231" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="2"/>
+  <path d="M512 196 C540 380 644 484 828 512 C644 540 540 644 512 828 C484 644 380 540 196 512 C380 484 484 380 512 196 Z" fill="url(#mark)"/>
+  <path d="M470 430 L604 512 L470 594 Z" fill="#07060f" fill-opacity="0.85"/>
+</svg>
