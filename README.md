@@ -77,8 +77,8 @@ Cambia de canal con el teclado, mira la programación de un vistazo y vuelve atr
 ## Películas y series
 
 <p align="center">
-  <img src="assets/screenshots/home.jpg" width="49%" alt="Inicio con el destacado, Continuar viendo y tus canales" />
-  <img src="assets/screenshots/series.jpg" width="49%" alt="Ficha de una serie con temporadas y episodios vistos" />
+  <img src="assets/screenshots/movies.jpg" width="49%" alt="Películas: carátulas con año y valoración" />
+  <img src="assets/screenshots/series.jpg" width="49%" alt="Ficha de una serie con el logo del título, temporadas y episodios" />
 </p>
 
 - **Fichas completas**: sinopsis, reparto, tráiler, estreno, clasificación y «Más como esta».
