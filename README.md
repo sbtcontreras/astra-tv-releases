@@ -4,8 +4,10 @@
 
 # Astra TV
 
-**Tu lista Xtream Codes, como se merece verse.**<br />
-TV en vivo con guía, películas y series en una sola app para Windows. Portable, rápida y privada.
+### Cine, series y televisión en vivo, con el cuidado que merecen.
+
+Astra TV le da a tu lista Xtream Codes la experiencia de una gran plataforma:<br />
+una app para Windows rápida, discreta y pensada hasta el último detalle.
 
 <br />
 
@@ -16,211 +18,217 @@ TV en vivo con guía, películas y series en una sola app para Windows. Portable
 
 <a href="https://github.com/sbtcontreras/astra-tv-releases/releases/latest"><img src="https://img.shields.io/github/v/release/sbtcontreras/astra-tv-releases?style=flat-square&label=versi%C3%B3n&color=8b5cf6&labelColor=1b1640" alt="Última versión" /></a>
 <a href="https://github.com/sbtcontreras/astra-tv-releases/releases"><img src="https://img.shields.io/github/downloads/sbtcontreras/astra-tv-releases/total?style=flat-square&label=descargas&color=ec4899&labelColor=1b1640" alt="Descargas" /></a>
-<img src="https://img.shields.io/badge/Windows-10_%7C_11_(64_bits)-c4b5fd?style=flat-square&labelColor=1b1640" alt="Windows 10 y 11, 64 bits" />
-<img src="https://img.shields.io/badge/actualizaciones-firmadas_(ed25519)-c4b5fd?style=flat-square&labelColor=1b1640" alt="Actualizaciones firmadas" />
+<img src="https://img.shields.io/badge/Windows-10_%7C_11-c4b5fd?style=flat-square&labelColor=1b1640" alt="Windows 10 y 11" />
 
 <br />
 <br />
 
-<img src="assets/screenshots/movie.jpg" width="100%" alt="Ficha de una película en Astra TV: logo del título, valoración, sinopsis y reparto" />
+<img src="assets/screenshots/movie.jpg" width="100%" alt="Ficha de Dune: Parte dos en Astra TV, con su logo, sinopsis y reparto" />
 
-<sub>Un solo <code>AstraTV.exe</code> de unos 40 MB · Sin instalación · Tus datos nunca salen de tu equipo</sub>
+<sub>Un solo archivo · Sin instalación · Tus datos no salen de tu equipo</sub>
 
 </div>
 
 <br />
 
-## Por qué Astra TV
-
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### Hecha para ver
+#### Para mirar
 
-Carátulas, logos de los títulos, reparto con fotos y valoraciones de TMDB. Tu catálogo se ve como una plataforma de streaming, no como una lista de texto.
-
-</td>
-<td width="33%" valign="top">
-
-### Rápida de verdad
-
-El catálogo se guarda en tu equipo: abrir una categoría, buscar o cambiar de canal es inmediato, aunque tu lista tenga miles de títulos.
+Cada título llega con su logo, su mejor imagen, su reparto y su valoración. Tu catálogo deja de ser una lista y se convierte en una cartelera.
 
 </td>
 <td width="33%" valign="top">
 
-### Privada
+#### Al instante
 
-Tus credenciales solo se usan para conectarse con tu proveedor. Listas, historial y ajustes se quedan en tu equipo. Sin cuentas, sin anuncios, sin rastreo.
+El catálogo vive en tu equipo. Abrir una categoría, buscar o cambiar de canal ocurre sin esperas, aunque tu lista tenga miles de títulos.
+
+</td>
+<td width="33%" valign="top">
+
+#### Solo tuya
+
+Sin cuentas, sin anuncios, sin rastreo. Tus credenciales viajan únicamente a tu proveedor; todo lo demás se queda contigo.
 
 </td>
 </tr>
 </table>
 
-## TV en vivo
+<br />
 
-Cambia de canal con el teclado, mira la programación de un vistazo y vuelve atrás si te perdiste algo.
+## La señal en vivo, a tu ritmo
+
+Recorre los canales con una vista previa que ya está reproduciendo y consulta la guía de un vistazo. Y si algo te interrumpe, pausa: Astra TV guarda lo último que se emitió para que vuelvas atrás cuando quieras.
 
 <p align="center">
-  <img src="assets/screenshots/live.jpg" width="49%" alt="TV en vivo: categorías, canales con lo que se emite ahora y vista previa del canal" />
-  <img src="assets/screenshots/guide.jpg" width="49%" alt="Guía de programación en grilla con el programa de ahora marcado" />
+  <img src="assets/screenshots/live.jpg" width="49%" alt="TV en vivo: categorías, canales con su programa actual y vista previa" />
+  <img src="assets/screenshots/guide.jpg" width="49%" alt="Guía de programación en grilla, con el programa de ahora marcado" />
 </p>
 
-- **Vista previa** del canal mientras recorres la lista, con lo que se emite ahora y cuánto le queda.
-- **Guía** en grilla de todos los canales (XMLTV), con filtro «Con guía» y navegación por días.
-- **Repetición**: mira desde el inicio los programas que ya se emitieron, si tu proveedor lo permite.
-- **Retroceder en vivo**: pausa sin perder nada, retrocede o adelanta 10 s y arrastra la línea de tiempo, que marca dónde empieza cada programa. **Ir al vivo** (o la tecla Fin) te devuelve a lo que se emite ahora. Tú eliges cuánta memoria usa, de 25 MB a 1 GB.
-- **Zapping** con banner del canal, número de canal desde el teclado y Retroceso para volver al anterior.
-- Si la señal se cae, Astra TV **se reconecta sola**.
+- **Guía.** Toda la programación en una grilla, día por día, con lo que se emite ahora siempre a la vista.
+- **Repetición.** Los programas que ya pasaron, desde el inicio, cuando tu proveedor los ofrece.
+- **Retroceder en vivo.** Pausa, vuelve 10 s o recorre la línea de tiempo, que marca dónde empieza cada programa. **Ir al vivo** te devuelve al presente.
+- **Zapping.** Cambia de canal con el teclado, marca su número o vuelve al anterior con Retroceso.
+- **Sin cortes.** Si la señal se cae, Astra TV se reconecta sola.
 
-## Películas y series
+<br />
+
+## Cada título, en su mejor versión
+
+Fichas con logo, sinopsis, reparto, tráiler y valoraciones de TMDB. Astra TV recuerda dónde quedaste, qué idioma prefieres en cada serie y qué episodio viene después.
 
 <p align="center">
   <img src="assets/screenshots/movies.jpg" width="49%" alt="Películas: carátulas con año y valoración" />
-  <img src="assets/screenshots/series.jpg" width="49%" alt="Ficha de una serie con el logo del título, temporadas y episodios" />
+  <img src="assets/screenshots/series.jpg" width="49%" alt="Ficha de Breaking Bad, con su logo, temporadas y episodios" />
 </p>
 
-- **Fichas completas**: sinopsis, reparto, tráiler, estreno, clasificación y «Más como esta».
-- **Continuar viendo** retoma donde quedaste y, en las series, pasa solo al siguiente episodio, con cuenta regresiva.
-- Recuerda el **audio y los subtítulos** que elegiste para cada serie, y los subtítulos aparecen solos cuando el audio está en otro idioma.
-- Marca como visto un episodio, una temporada o la serie completa. Todo se puede deshacer.
-- **Biblioteca**: tu historial ordenado por día y tus favoritos, filtrables por películas, series o TV en vivo.
-- **Buscar** en todo el catálogo con Ctrl+K, o dentro de la categoría que tienes abierta con /.
+- **Continuar viendo.** Retoma donde quedaste; al terminar un episodio, el siguiente empieza solo.
+- **Idiomas.** El audio y los subtítulos que elegiste se recuerdan por serie, y los subtítulos aparecen cuando el audio está en otro idioma.
+- **Más como esta.** Sugerencias en cada ficha para descubrir lo próximo.
+- **Biblioteca.** Tu historial, día por día, y tus favoritos, siempre a mano.
+- **Búsqueda.** Todo el catálogo con Ctrl+K, o solo la categoría abierta con /.
 
-## Un reproductor que no te interrumpe
+<br />
 
-- **Mini reproductor**: sal de lo que estás viendo y sigue reproduciéndose en una esquina mientras navegas. Se expande sin recargar.
-- **Ventana flotante** (P): el video siempre visible sobre tus otras ventanas.
-- Ajusta la **imagen** (A): ajustar, rellenar, estirar o forzar 16:9, 4:3 y 21:9.
-- **Información de la transmisión** (I): resolución, video, audio, descarga y búfer.
-- Reproducción con **libmpv**: arranca rápido y lee prácticamente cualquier formato.
+## El video te acompaña
 
-## A tu manera
+Sal del reproductor y lo que ves sigue en una esquina mientras exploras; vuelve a expandirlo sin recargar. O déjalo flotando sobre tus otras ventanas con una sola tecla.
 
-<img align="right" src="assets/screenshots/settings.jpg" width="46%" alt="Ajustes de Apariencia con vista previa en vivo y ambientes de fondo" />
+- **Imagen.** Ajustar, rellenar, estirar o forzar 16:9, 4:3 y 21:9.
+- **Información de la transmisión.** Resolución, video, audio y búfer en tiempo real.
+- **Motor mpv.** Arranque rápido y compatibilidad con prácticamente cualquier formato.
 
-- **Apariencia**: cinco ambientes (Medianoche, Grafito, Abismo, Aurora y OLED), color de acento, luz ambiental, tamaño de las carátulas y la pantalla con la que se abre la app.
-- **Fondos con imagen**: uno de los incluidos, tu propia foto o la imagen de una película o serie, desenfocada bajo paneles de vidrio.
-- **Varias listas**, con sincronización manual o automática, y la información de cada cuenta: vencimiento, conexiones y hasta cuándo llega su guía.
-- **Categorías** fijadas arriba, ocultas o bloqueadas.
-- **Control parental** con PIN para bloquear categorías.
-- **Ajustes con buscador** (Ctrl+F) y «Restablecer» por sección.
+<br />
+
+## Hecha a tu medida
+
+<img align="right" src="assets/screenshots/settings.jpg" width="46%" alt="Ajustes de Apariencia con vista previa y ambientes de fondo" />
+
+Cinco ambientes, de Medianoche a un negro OLED puro, el color de acento que prefieras y una luz ambiental sutil. O un fondo con imagen, tuya o de tu película favorita, desenfocado bajo paneles de vidrio.
+
+- **Varias listas**, cada una con sus datos al día: vencimiento, conexiones y alcance de la guía.
+- **Categorías** fijadas, ocultas o protegidas con PIN.
+- **Ajustes** con buscador y «Restablecer» por sección.
 
 <br clear="right" />
+<br />
 
-## Atajos de teclado
+## Todo desde el teclado
 
 <table>
 <tr>
 <td valign="top">
 
-**En el reproductor**
+**Reproductor**
 
 | Tecla | Acción |
 |---|---|
-| <kbd>Espacio</kbd> / <kbd>K</kbd> | Reproducir o pausar |
+| <kbd>Espacio</kbd> | Reproducir o pausar |
 | <kbd>←</kbd> <kbd>→</kbd> | Retroceder o adelantar 10 s |
 | <kbd>↑</kbd> <kbd>↓</kbd> | Volumen |
 | <kbd>M</kbd> | Silenciar |
-| <kbd>F</kbd> / <kbd>F11</kbd> | Pantalla completa |
+| <kbd>F</kbd> | Pantalla completa |
 | <kbd>P</kbd> | Ventana flotante |
-| <kbd>C</kbd> | Cambiar subtítulos |
+| <kbd>C</kbd> | Subtítulos |
 | <kbd>A</kbd> | Ajuste de imagen |
 | <kbd>I</kbd> | Información de la transmisión |
-| <kbd>Mayús</kbd> + <kbd>N</kbd> | Siguiente episodio |
 | <kbd>E</kbd> | Episodios |
+| <kbd>Mayús</kbd> <kbd>N</kbd> | Siguiente episodio |
 
 </td>
 <td valign="top">
 
-**En TV en vivo**
+**TV en vivo**
 
 | Tecla | Acción |
 |---|---|
 | <kbd>RePág</kbd> <kbd>AvPág</kbd> | Canal anterior o siguiente |
-| <kbd>0</kbd>–<kbd>9</kbd> | Ir a un número de canal |
+| <kbd>0</kbd>–<kbd>9</kbd> | Ir a un canal por su número |
 | <kbd>Retroceso</kbd> | Volver al canal anterior |
 | <kbd>L</kbd> | Lista de canales |
-| <kbd>G</kbd> | Cambiar entre Canales y Guía |
+| <kbd>G</kbd> | Canales o Guía |
 | <kbd>Fin</kbd> | Ir al vivo |
 
-**En toda la app**
+**Toda la app**
 
 | Tecla | Acción |
 |---|---|
-| <kbd>Ctrl</kbd> + <kbd>K</kbd> | Buscar |
-| <kbd>/</kbd> | Buscar en la pantalla |
+| <kbd>Ctrl</kbd> <kbd>K</kbd> | Buscar |
+| <kbd>/</kbd> | Buscar en esta pantalla |
 
 </td>
 </tr>
 </table>
 
-## Instalar
+<br />
 
-1. **[Descarga `AstraTV.exe`](https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV.exe)** desde la última versión.
-2. Guárdalo donde quieras (Escritorio, una carpeta o un pendrive) y ábrelo. No requiere instalación.
-3. Agrega tu lista con el servidor, el usuario y la contraseña que te dio tu proveedor. Listo.
+## Empieza en un minuto
 
-**Requisitos**: Windows 10 u 11 de 64 bits. La app usa WebView2, que ya viene incluido en Windows 10 y 11.
+1. **[Descarga `AstraTV.exe`](https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV.exe)**.
+2. Guárdalo donde quieras, incluso en un pendrive, y ábrelo. No hay nada que instalar.
+3. Agrega tu lista con el servidor, el usuario y la contraseña de tu proveedor.
+
+Funciona en Windows 10 y 11 de 64 bits.
 
 > [!NOTE]
-> Astra TV es un reproductor: no incluye canales, películas ni series. Necesitas una lista Xtream Codes de tu proveedor.
+> Astra TV es un reproductor: no incluye canales, películas ni series. Para usarlo necesitas una lista Xtream Codes de tu proveedor.
 
-### Primer inicio: aviso de SmartScreen
+### La primera vez
 
-Windows puede mostrar *«Windows protegió tu PC»* la primera vez que abres `AstraTV.exe`. Para continuar:
+Windows puede mostrar *«Windows protegió tu PC»* al abrir `AstraTV.exe` por primera vez. Haz clic en **Más información** y luego en **Ejecutar de todas formas**. Solo ocurre una vez; si prefieres comprobar el archivo antes, sigue los pasos de [Verificar la descarga](#verificar-la-descarga).
 
-1. Haz clic en **Más información**.
-2. Haz clic en **Ejecutar de todas formas**.
+<br />
 
-Solo tienes que hacerlo una vez. Si prefieres comprobar el archivo antes, mira [Verificar la descarga](#verificar-la-descarga).
+## Siempre al día
 
-## Actualizaciones
+Astra TV busca versiones nuevas al abrirse y cada 6 horas. Antes de instalar una, comprueba su firma digital (ed25519) con la clave incluida en la app; si no coincide, la descarta. Luego solo te pide reiniciar.
 
-Astra TV busca versiones nuevas en esta página al abrirse y cada 6 horas. Cuando hay una, la descarga, comprueba su **firma digital (ed25519)** con la clave incluida en la app y, si es válida, reemplaza el ejecutable y te pide reiniciar. Si la firma no coincide, la descarga se descarta.
-
-Puedes desactivar la búsqueda automática en **Ajustes**; buscar a mano siempre está disponible.
+Puedes desactivar la búsqueda automática en **Ajustes** y buscar a mano cuando quieras. Lo nuevo de cada versión está en [Versiones](https://github.com/sbtcontreras/astra-tv-releases/releases).
 
 > [!IMPORTANT]
-> Si usas la v0.1.0, descarga la última versión desde esta página una sola vez. Desde la v0.2.0, las actualizaciones son automáticas.
+> Si todavía usas la v0.1.0, descarga la última versión desde aquí una sola vez. Desde la v0.2.0, Astra TV se actualiza sola.
 
-Lo nuevo de cada versión está en [Versiones](https://github.com/sbtcontreras/astra-tv-releases/releases).
+<br />
 
-## Tus datos
+## Tus datos, en tu equipo
 
-Todo se guarda en tu equipo, en:
+Listas, catálogo, favoritos, historial y ajustes se guardan en:
 
 ```
 %LOCALAPPDATA%\app.astratv.desktop
 ```
 
-Ahí están tus listas, el catálogo descargado, favoritos, historial y ajustes. Para empezar de cero, usa **Ajustes › Datos › Borrar todos los datos**, o cierra la app y elimina esa carpeta.
+Para empezar de cero, usa **Ajustes › Datos › Borrar todos los datos**.
 
-### Llevar tus listas a otro equipo
-
-Exporta tus listas desde **Ajustes** a un archivo `.astra` e impórtalo en el otro equipo.
+Para llevar tus listas a otro equipo, expórtalas desde **Ajustes** a un archivo `.astra` e impórtalo allá.
 
 > [!WARNING]
-> El archivo `.astra` contiene las **contraseñas** de tus listas en texto legible. Trátalo como una contraseña: no lo publiques y compártelo solo por un canal privado.
+> El archivo `.astra` incluye las contraseñas de tus listas en texto legible. Guárdalo como guardarías una contraseña y compártelo solo por un canal privado.
+
+<br />
 
 ## Verificar la descarga
 
-Cada versión incluye, junto a `AstraTV.exe`, el archivo `AstraTV.exe.sha256` con la huella SHA-256 del ejecutable. Para comprobarla en PowerShell:
+Cada versión publica, junto a `AstraTV.exe`, su huella SHA-256 en `AstraTV.exe.sha256`. Compruébala en PowerShell:
 
 ```powershell
 (Get-FileHash .\AstraTV.exe -Algorithm SHA256).Hash.ToLower()
 Get-Content .\AstraTV.exe.sha256
 ```
 
-Si el primer valor coincide con el comienzo de `AstraTV.exe.sha256` (antes de los dos espacios), el archivo es el que se publicó.
+Si el primer valor coincide con el comienzo del segundo, el archivo es exactamente el que se publicó.
+
+<br />
 
 ## Preguntas frecuentes
 
 <details>
-<summary><b>¿Astra TV trae canales o contenido?</b></summary>
+<summary><b>¿Astra TV incluye canales o contenido?</b></summary>
 <br />
-No. Astra TV es solo el reproductor: muestra el catálogo de la lista Xtream Codes que te da tu proveedor.
+No. Astra TV es el reproductor: muestra el catálogo de la lista Xtream Codes que te entrega tu proveedor.
 </details>
 
 <details>
@@ -230,27 +238,28 @@ Por ahora, solo con listas Xtream Codes (servidor, usuario y contraseña).
 </details>
 
 <details>
-<summary><b>Un canal se corta a los pocos segundos o no carga. ¿Qué pasa?</b></summary>
+<summary><b>Un canal se corta a los pocos segundos. ¿Por qué?</b></summary>
 <br />
-Lo más común es que tu cuenta esté usando todas sus conexiones al mismo tiempo (otro dispositivo viendo la misma lista). Astra TV te avisa cuando llegas al límite; puedes ver cuántas conexiones permite tu cuenta en <b>Ajustes › Listas</b>.
+Casi siempre es porque tu cuenta está usando todas sus conexiones, por ejemplo con otro dispositivo viendo la misma lista. Astra TV te avisa cuando llegas al límite, y en <b>Ajustes › Listas</b> puedes ver cuántas conexiones permite tu cuenta.
 </details>
 
 <details>
 <summary><b>¿Por qué Windows dice que la app no es reconocida?</b></summary>
 <br />
-SmartScreen avisa de los programas que todavía no descargó mucha gente. Las actualizaciones de Astra TV van firmadas, y puedes comprobar cada descarga con su huella SHA-256 (<a href="#verificar-la-descarga">Verificar la descarga</a>).
+SmartScreen avisa de los programas que todavía no descarga mucha gente. Las actualizaciones de Astra TV van firmadas, y puedes comprobar cada descarga con su huella SHA-256 (<a href="#verificar-la-descarga">Verificar la descarga</a>).
 </details>
 
 <details>
-<summary><b>¿Cómo desinstalo Astra TV?</b></summary>
+<summary><b>¿Cómo la desinstalo?</b></summary>
 <br />
-Borra <code>AstraTV.exe</code> y, si quieres quitar también tus datos, la carpeta <code>%LOCALAPPDATA%\app.astratv.desktop</code>.
+Borra <code>AstraTV.exe</code>. Si también quieres quitar tus datos, borra la carpeta <code>%LOCALAPPDATA%\app.astratv.desktop</code>.
 </details>
 
+<br />
 <br />
 
 <div align="center">
 <img src="assets/logo.svg" width="40" alt="" />
 <br />
-<sub>Astra TV para Windows</sub>
+<sub>Astra TV · Para Windows 10 y 11</sub>
 </div>
