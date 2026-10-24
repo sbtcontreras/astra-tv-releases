@@ -86,7 +86,7 @@ Fichas con logo, sinopsis, reparto, tráiler y valoraciones de TMDB. Astra TV re
 </p>
 
 - **Continuar viendo.** Retoma donde quedaste; al terminar un episodio, el siguiente empieza solo.
-- **Idiomas.** El audio y los subtítulos que elegiste se recuerdan por serie, y los subtítulos aparecen cuando el audio está en otro idioma.
+- **Idiomas.** El audio y los subtítulos que elegiste se recuerdan por serie, y los subtítulos aparecen cuando el audio está en otro idioma. Si no los trae en español, se buscan en OpenSubtitles; el tamaño, el fondo y la sincronía se ajustan desde el mismo menú.
 - **Más como esta.** Sugerencias en cada ficha para descubrir lo próximo.
 - **Biblioteca.** Tu historial, día por día, y tus favoritos, siempre a mano.
 - **Búsqueda.** Todo el catálogo con Ctrl+K, o solo la categoría abierta con /.
@@ -133,6 +133,7 @@ Cinco ambientes, de Medianoche a un negro OLED puro, el color de acento que pref
 | <kbd>F</kbd> | Pantalla completa |
 | <kbd>P</kbd> | Ventana flotante |
 | <kbd>C</kbd> | Subtítulos |
+| <kbd>Z</kbd> <kbd>X</kbd> | Mostrar los subtítulos antes o después |
 | <kbd>A</kbd> | Ajuste de imagen |
 | <kbd>I</kbd> | Información de la transmisión |
 | <kbd>E</kbd> | Episodios |
