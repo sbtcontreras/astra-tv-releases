@@ -7,11 +7,12 @@
 ### Cine, series y televisión en vivo, con el cuidado que merecen.
 
 Astra TV le da a tu lista Xtream Codes la experiencia de una gran plataforma:<br />
-una app para Windows rápida, discreta y pensada hasta el último detalle.
+una app para Windows y Android rápida, discreta y pensada hasta el último detalle.
 
 <br />
 
 <a href="https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV.exe"><img src="https://img.shields.io/badge/Descargar_para_Windows-AstraTV.exe-8b5cf6?style=for-the-badge&logo=windows11&logoColor=white&labelColor=1b1640" alt="Descargar para Windows" height="44" /></a>
+<a href="https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV-arm64-v8a.apk"><img src="https://img.shields.io/badge/Descargar_para_Android-AstraTV.apk-8b5cf6?style=for-the-badge&logo=android&logoColor=white&labelColor=1b1640" alt="Descargar para Android" height="44" /></a>
 
 <br />
 <br />
@@ -19,13 +20,14 @@ una app para Windows rápida, discreta y pensada hasta el último detalle.
 <a href="https://github.com/sbtcontreras/astra-tv-releases/releases/latest"><img src="https://img.shields.io/github/v/release/sbtcontreras/astra-tv-releases?style=flat-square&label=versi%C3%B3n&color=8b5cf6&labelColor=1b1640" alt="Última versión" /></a>
 <a href="https://github.com/sbtcontreras/astra-tv-releases/releases"><img src="https://img.shields.io/github/downloads/sbtcontreras/astra-tv-releases/total?style=flat-square&label=descargas&color=ec4899&labelColor=1b1640" alt="Descargas" /></a>
 <img src="https://img.shields.io/badge/Windows-10_%7C_11-c4b5fd?style=flat-square&labelColor=1b1640" alt="Windows 10 y 11" />
+<img src="https://img.shields.io/badge/Android-8_o_m%C3%A1s_nuevo-c4b5fd?style=flat-square&labelColor=1b1640" alt="Android 8 o más nuevo" />
 
 <br />
 <br />
 
 <img src="assets/screenshots/movie.jpg" width="100%" alt="Ficha de Dune: Parte dos en Astra TV, con su logo, sinopsis y reparto" />
 
-<sub>Un solo archivo · Sin instalación · Tus datos no salen de tu equipo</sub>
+<sub>Windows, Android TV, tablets y celulares · Sin cuentas ni anuncios · Tus datos no salen de tu equipo</sub>
 
 </div>
 
@@ -71,7 +73,7 @@ Recorre los canales con una vista previa que ya está reproduciendo y consulta l
 - **Guía.** Toda la programación en una grilla, día por día, con lo que se emite ahora siempre a la vista.
 - **Repetición.** Los programas que ya pasaron, desde el inicio, cuando tu proveedor los ofrece.
 - **Retroceder en vivo.** Pausa, vuelve 10 s o recorre la línea de tiempo, que marca dónde empieza cada programa. **Ir al vivo** te devuelve al presente.
-- **Zapping.** Cambia de canal con el teclado, marca su número o vuelve al anterior con Retroceso.
+- **Zapping.** Cambia de canal con el teclado o con CH+ y CH− del control remoto, marca su número o vuelve al anterior con Retroceso.
 - **Sin cortes.** Si la señal se cae, Astra TV se reconecta sola.
 
 <br />
@@ -95,7 +97,7 @@ Fichas con logo, sinopsis, reparto, tráiler y valoraciones de TMDB. Astra TV re
 
 ## El video te acompaña
 
-Sal del reproductor y lo que ves sigue en una esquina mientras exploras; vuelve a expandirlo sin recargar. O déjalo flotando sobre tus otras ventanas con una sola tecla.
+Sal del reproductor y lo que ves sigue en una esquina mientras exploras (en el celular, en una barra sobre las pestañas); vuelve a expandirlo sin recargar. O déjalo flotando sobre tus otras ventanas con una sola tecla, o en la ventana flotante de Android al salir de la app.
 
 - **Imagen.** Ajustar, rellenar, estirar o forzar 16:9, 4:3 y 21:9.
 - **Información de la transmisión.** Resolución, video, audio y búfer en tiempo real.
@@ -111,6 +113,7 @@ Cinco ambientes, de Medianoche a un negro OLED puro, el color de acento que pref
 
 - **Varias listas**, cada una con sus datos al día: vencimiento, conexiones y alcance de la guía.
 - **Categorías** fijadas, ocultas o protegidas con PIN.
+- **Liviana en cualquier equipo.** Apaga *Animaciones continuas* y la pantalla queda quieta mientras no la usas, sin ocupar el procesador ni gastar batería; apaga *Máxima calidad de imagen* si tu equipo pierde cuadros. En Android empiezan apagadas.
 - **Ajustes** con buscador y «Restablecer» por sección.
 
 <br clear="right" />
@@ -166,6 +169,14 @@ Cinco ambientes, de Medianoche a un negro OLED puro, el color de acento que pref
 
 <br />
 
+## En la TV, la tablet y el celular
+
+- **Con el control remoto.** Las flechas llevan a lo más cercano en esa dirección; OK abre y, mantenido, muestra el menú de un póster. CH+ y CH− cambian de canal, y Atrás cierra lo abierto o vuelve atrás.
+- **Con el dedo.** Un toque muestra u oculta los controles del reproductor, y dos toques en una mitad adelantan o retroceden 10 segundos.
+- **En el celular,** Inicio, TV en vivo, Películas, Series y Biblioteca van en pestañas abajo. La app se usa en vertical y el reproductor se pone horizontal solo.
+
+<br />
+
 ## Empieza en un minuto
 
 1. **[Descarga `AstraTV.exe`](https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV.exe)**.
@@ -173,6 +184,14 @@ Cinco ambientes, de Medianoche a un negro OLED puro, el color de acento que pref
 3. Agrega tu lista con el servidor, el usuario y la contraseña de tu proveedor.
 
 Funciona en Windows 10 y 11 de 64 bits.
+
+### En Android: TV, tablet o celular
+
+1. En el equipo, descarga **[`AstraTV-arm64-v8a.apk`](https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV-arm64-v8a.apk)**, el de casi todos los equipos actuales. Si el tuyo es de 32 bits, descarga **[`AstraTV-armeabi-v7a.apk`](https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV-armeabi-v7a.apk)**.
+2. Ábrelo. Android te pide permitir que el navegador (o Archivos) instale apps: actívalo y toca **Instalar**.
+3. En una TV sin navegador, instala *Downloader* desde Google Play y escribe ahí la dirección del APK.
+
+Funciona en Android 8 o más nuevo, con Android System WebView 120 o más nuevo; si el tuyo es más viejo, Astra TV te dice que lo actualices desde Google Play. En la TV se maneja con el control remoto, y en la tablet y el celular con el dedo.
 
 > [!NOTE]
 > Astra TV es un reproductor: no incluye canales, películas ni series. Para usarlo necesitas una lista Xtream Codes de tu proveedor.
@@ -185,7 +204,7 @@ Windows puede mostrar *«Windows protegió tu PC»* al abrir `AstraTV.exe` por p
 
 ## Siempre al día
 
-Astra TV busca versiones nuevas al abrirse y cada 6 horas. Antes de instalar una, comprueba su firma digital (ed25519) con la clave incluida en la app; si no coincide, la descarta. Luego solo te pide reiniciar.
+Astra TV busca versiones nuevas al abrirse y cada 6 horas. Antes de instalar una, comprueba su firma digital (ed25519) con la clave incluida en la app; si no coincide, la descarta. Luego solo te pide reiniciar; en Android abre el instalador del sistema, que acepta la versión nueva solo si viene firmada con la misma llave.
 
 Puedes desactivar la búsqueda automática en **Ajustes** y buscar a mano cuando quieras. Lo nuevo de cada versión está en [Versiones](https://github.com/sbtcontreras/astra-tv-releases/releases).
 
@@ -202,7 +221,7 @@ Listas, catálogo, favoritos, historial y ajustes se guardan en:
 %LOCALAPPDATA%\app.astratv.desktop
 ```
 
-Para empezar de cero, usa **Ajustes › Datos › Borrar todos los datos**.
+En Android quedan en los datos de la app. Para empezar de cero, en cualquier equipo, usa **Ajustes › Datos › Borrar todos los datos**.
 
 Para llevar tus listas a otro equipo, expórtalas desde **Ajustes** a un archivo `.astra` e impórtalo allá.
 
@@ -220,7 +239,7 @@ Cada versión publica, junto a `AstraTV.exe`, su huella SHA-256 en `AstraTV.exe.
 Get-Content .\AstraTV.exe.sha256
 ```
 
-Si el primer valor coincide con el comienzo del segundo, el archivo es exactamente el que se publicó.
+Si el primer valor coincide con el comienzo del segundo, el archivo es exactamente el que se publicó. Cada APK trae lo mismo: `AstraTV-arm64-v8a.apk.sha256` y `AstraTV-armeabi-v7a.apk.sha256`.
 
 <br />
 
@@ -253,7 +272,7 @@ SmartScreen avisa de los programas que todavía no descarga mucha gente. Las act
 <details>
 <summary><b>¿Cómo la desinstalo?</b></summary>
 <br />
-Borra <code>AstraTV.exe</code>. Si también quieres quitar tus datos, borra la carpeta <code>%LOCALAPPDATA%\app.astratv.desktop</code>.
+En Windows, borra <code>AstraTV.exe</code>; si también quieres quitar tus datos, borra la carpeta <code>%LOCALAPPDATA%\app.astratv.desktop</code>. En Android, desinstálala como cualquier app: sus datos se van con ella.
 </details>
 
 <br />
@@ -262,5 +281,5 @@ Borra <code>AstraTV.exe</code>. Si también quieres quitar tus datos, borra la c
 <div align="center">
 <img src="assets/logo.svg" width="40" alt="" />
 <br />
-<sub>Astra TV · Para Windows 10 y 11</sub>
+<sub>Astra TV · Para Windows 10 y 11 y Android 8 o más nuevo</sub>
 </div>
