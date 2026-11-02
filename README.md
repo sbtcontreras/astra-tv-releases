@@ -12,7 +12,7 @@ en tu PC con Windows, tu TV con Android, tu tablet y tu celular.
 
 <br />
 
-<a href="https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV.exe"><img src="https://img.shields.io/badge/Windows-AstraTV.exe-8b5cf6?style=for-the-badge&logo=windows11&logoColor=white&labelColor=1b1640" alt="Descargar para Windows" height="44" /></a>
+<a href="https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV.exe"><img src="https://img.shields.io/badge/Windows-AstraTV.exe-8b5cf6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTMgM2g4LjV2OC41SDN6TTEyLjUgM0gyMXY4LjVoLTguNXpNMyAxMi41aDguNVYyMUgzek0xMi41IDEyLjVIMjFWMjFoLTguNXoiLz48L3N2Zz4%3D&labelColor=1b1640" alt="Descargar para Windows" height="44" /></a>
 <a href="https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV-arm64-v8a.apk"><img src="https://img.shields.io/badge/Android_64_bits-AstraTV--arm64--v8a.apk-8b5cf6?style=for-the-badge&logo=android&logoColor=white&labelColor=1b1640" alt="Descargar para Android de 64 bits" height="44" /></a>
 
 <sub>¿Una TV box o un equipo de 32 bits? Descarga <a href="https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV-armeabi-v7a.apk"><code>AstraTV-armeabi-v7a.apk</code></a> · <a href="#64-o-32-bits">¿Cuál es el mío?</a></sub>
@@ -22,8 +22,8 @@ en tu PC con Windows, tu TV con Android, tu tablet y tu celular.
 
 <a href="https://github.com/sbtcontreras/astra-tv-releases/releases/latest"><img src="https://img.shields.io/github/v/release/sbtcontreras/astra-tv-releases?style=flat-square&label=versi%C3%B3n&color=8b5cf6&labelColor=1b1640" alt="Última versión" /></a>
 <a href="https://github.com/sbtcontreras/astra-tv-releases/releases"><img src="https://img.shields.io/github/downloads/sbtcontreras/astra-tv-releases/total?style=flat-square&label=descargas&color=ec4899&labelColor=1b1640" alt="Descargas" /></a>
-<img src="https://img.shields.io/badge/Windows-10_%7C_11-c4b5fd?style=flat-square&labelColor=1b1640" alt="Windows 10 y 11" />
-<img src="https://img.shields.io/badge/Android-8_o_m%C3%A1s_nuevo-c4b5fd?style=flat-square&labelColor=1b1640" alt="Android 8 o más nuevo" />
+<a href="#en-windows"><img src="https://img.shields.io/badge/Windows-10_%7C_11-c4b5fd?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTMgM2g4LjV2OC41SDN6TTEyLjUgM0gyMXY4LjVoLTguNXpNMyAxMi41aDguNVYyMUgzek0xMi41IDEyLjVIMjFWMjFoLTguNXoiLz48L3N2Zz4%3D&labelColor=1b1640" alt="Windows 10 y 11" /></a>
+<a href="#en-android"><img src="https://img.shields.io/badge/Android-8_o_m%C3%A1s_nuevo-c4b5fd?style=flat-square&logo=android&logoColor=white&labelColor=1b1640" alt="Android 8 o más nuevo" /></a>
 
 <br />
 <br />
