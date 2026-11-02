@@ -75,7 +75,7 @@ Recorre los canales con una vista previa que ya está reproduciendo y mira qué 
 
 - **Guía.** Toda la programación en una grilla, día por día, con lo que se emite ahora siempre a la vista.
 - **Repetición.** Los programas que ya pasaron, desde su inicio, en los canales donde tu proveedor la ofrece.
-- **Retroceder en vivo.** Pausa, vuelve 10 s o recorre la línea de tiempo, que marca dónde empieza cada programa; **Ir al vivo** te devuelve al presente.
+- **Retroceder en vivo.** Pausa, vuelve 10 s o recorre la línea de tiempo, que marca dónde empieza cada programa; **Ir al vivo** te devuelve al presente. Cuánto guarda depende de la memoria que le des en *Ajustes › Reproducción*.
 - **Zapping.** Cambia de canal con el teclado o con CH+ y CH− del control remoto, marca su número o vuelve al anterior.
 - **Sin cortes.** Si la señal se cae, Astra TV se reconecta sola. Si tu cuenta ya usa todas sus conexiones, te lo dice.
 
@@ -144,6 +144,77 @@ Cinco ambientes, de Medianoche a un negro OLED puro, y seis colores de acento. O
 <br clear="right" />
 <br />
 
+## Descarga
+
+| | Archivo | Para |
+|---|---|---|
+| **Windows** | [`AstraTV.exe`](https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV.exe) | Windows 10 y 11 de 64 bits. |
+| **Android 64 bits** | [`AstraTV-arm64-v8a.apk`](https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV-arm64-v8a.apk) | Casi todos los celulares y tablets de los últimos años. |
+| **Android 32 bits** | [`AstraTV-armeabi-v7a.apk`](https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV-armeabi-v7a.apk) | Muchas TV box y equipos para la TV, y equipos más antiguos. |
+
+Las notas de cada versión están en [Versiones](https://github.com/sbtcontreras/astra-tv-releases/releases).
+
+> [!NOTE]
+> Astra TV es un reproductor: no incluye canales, películas ni series. Para usarlo necesitas una lista Xtream Codes de tu proveedor (servidor, usuario y contraseña).
+
+### En Windows
+
+1. **[Descarga `AstraTV.exe`](https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV.exe)**.
+2. Guárdalo donde quieras, incluso en un pendrive, y ábrelo. No hay nada que instalar; tus listas y ajustes quedan en cada equipo donde lo abras.
+3. Agrega tu lista con el servidor, el usuario y la contraseña de tu proveedor.
+
+La primera vez, Windows puede mostrar *«Windows protegió su PC»*: haz clic en **Más información** y luego en **Ejecutar de todas formas**. Solo ocurre una vez; si prefieres comprobar el archivo antes, sigue los pasos de [Verificar la descarga](#verificar-la-descarga).
+
+### En Android
+
+1. En el equipo, descarga el APK que le corresponde ([¿64 o 32 bits?](#64-o-32-bits)).
+2. Ábrelo. Android te pide permitir que el navegador (o *Archivos*) instale apps: actívalo y elige **Instalar**.
+3. Abre Astra TV y agrega tu lista.
+
+**En una TV sin navegador**, instala *Downloader* desde Google Play, permítele instalar apps y escribe la dirección del APK. Para el de 64 bits:
+
+```
+github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV-arm64-v8a.apk
+```
+
+Para el de 32 bits:
+
+```
+github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV-armeabi-v7a.apk
+```
+
+#### ¿64 o 32 bits?
+
+Los dos APK hacen exactamente lo mismo; cambia solo el tipo de Android que necesitan. Un procesador de 64 bits no basta: muchas TV box lo tienen y aun así traen Android de 32 bits.
+
+- **En un celular o una tablet**, instala el de 64 bits.
+- **En una TV box o un equipo para la TV**, prueba primero el de 64 bits. Si Android no lo instala (con un mensaje como *«No se instaló la app»*), tu equipo usa Android de 32 bits: instala `AstraTV-armeabi-v7a.apk`.
+
+Después, cada equipo se actualiza solo con el mismo tipo que instalaste.
+
+**Requisitos:** Android 8 o más nuevo y Android System WebView 120 o más nuevo (en Android 8 y 9, suele ser Google Chrome el que hace de WebView). Si el de tu equipo es más antiguo, Astra TV te lo dice al abrirse, con un botón a Google Play.
+
+<br />
+
+## Siempre al día
+
+Astra TV busca versiones nuevas al abrirse y cada 6 horas. Antes de instalar una, comprueba su firma digital (ed25519) con la clave incluida en la aplicación; si no coincide, la descarta. En Windows solo te pide reiniciar; en Android abre el instalador del sistema, que acepta la versión nueva solo si viene firmada con la misma clave.
+
+Puedes desactivar la búsqueda automática en **Ajustes › Acerca de** y buscar a mano cuando quieras. Si alguna versión empieza de cero, el aviso de actualización lo dice antes que nada, para que exportes tus listas primero (en la TV, anota el servidor, el usuario y la contraseña de cada una).
+
+<br />
+
+## Tus datos, en tu equipo
+
+Listas, catálogo, favoritos, historial y ajustes se guardan en tu equipo: en Windows, en `%LOCALAPPDATA%\app.astratv.desktop`; en Android, en los datos de la aplicación. Para empezar de cero, en cualquier equipo, usa **Ajustes › Datos › Borrar todos los datos**.
+
+Para llevar tus listas a otro equipo, expórtalas en **Ajustes › Listas › Exportar** a un archivo `.astra` e impórtalo allá, desde la bienvenida o desde **Ajustes › Listas › Importar**. En la TV, que no tiene selector de archivos, estas opciones no aparecen.
+
+> [!WARNING]
+> El archivo `.astra` incluye las contraseñas de tus listas en texto legible. Guárdalo como guardarías una contraseña y compártelo solo por un canal privado.
+
+<br />
+
 ## Todo desde el teclado
 
 <table>
@@ -166,7 +237,7 @@ Cinco ambientes, de Medianoche a un negro OLED puro, y seis colores de acento. O
 | <kbd>I</kbd> | Información de la transmisión |
 | <kbd>E</kbd> | Episodios |
 | <kbd>Mayús</kbd> <kbd>N</kbd> | Siguiente episodio |
-| <kbd>Esc</kbd> | Esconder los controles o volver |
+| <kbd>Esc</kbd> | Cerrar lo abierto, esconder los controles o volver |
 
 </td>
 <td valign="top">
@@ -206,77 +277,6 @@ Con el control remoto también funcionan sus teclas de reproducir, pausar, adela
 
 <br />
 
-## Descarga
-
-| | Archivo | Para |
-|---|---|---|
-| **Windows** | [`AstraTV.exe`](https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV.exe) | Windows 10 y 11 de 64 bits. |
-| **Android 64 bits** | [`AstraTV-arm64-v8a.apk`](https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV-arm64-v8a.apk) | Casi todos los celulares y tablets de los últimos años. |
-| **Android 32 bits** | [`AstraTV-armeabi-v7a.apk`](https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV-armeabi-v7a.apk) | Muchas TV box y equipos para la TV, y equipos más antiguos. |
-
-Las notas de cada versión están en [Versiones](https://github.com/sbtcontreras/astra-tv-releases/releases).
-
-> [!NOTE]
-> Astra TV es un reproductor: no incluye canales, películas ni series. Para usarlo necesitas una lista Xtream Codes de tu proveedor (servidor, usuario y contraseña).
-
-### En Windows
-
-1. **[Descarga `AstraTV.exe`](https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV.exe)**.
-2. Guárdalo donde quieras, incluso en un pendrive, y ábrelo. No hay nada que instalar; tus listas y ajustes quedan en cada equipo donde lo abras.
-3. Agrega tu lista con el servidor, el usuario y la contraseña de tu proveedor.
-
-La primera vez, Windows puede mostrar *«Windows protegió su PC»*: haz clic en **Más información** y luego en **Ejecutar de todas formas**. Solo ocurre una vez; si prefieres comprobar el archivo antes, sigue los pasos de [Verificar la descarga](#verificar-la-descarga).
-
-### En Android
-
-1. En el equipo, descarga el APK que le corresponde (abajo, cómo saber cuál).
-2. Ábrelo. Android te pide permitir que el navegador (o *Archivos*) instale apps: actívalo y elige **Instalar**.
-3. Abre Astra TV y agrega tu lista.
-
-**En una TV sin navegador**, instala *Downloader* desde Google Play, permítele instalar apps y escribe la dirección del APK. La del de 64 bits:
-
-```
-github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV-arm64-v8a.apk
-```
-
-Y la del de 32 bits:
-
-```
-github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV-armeabi-v7a.apk
-```
-
-#### ¿64 o 32 bits?
-
-Los dos APK hacen exactamente lo mismo; cambia solo el tipo de Android que necesitan. Un procesador de 64 bits no basta: muchas TV box lo tienen y aun así traen Android de 32 bits.
-
-- **En un celular o una tablet**, instala el de 64 bits.
-- **En una TV box o un equipo para la TV**, prueba primero el de 64 bits. Si Android no la instala (con un mensaje como *«No se instaló la app»*), tu equipo usa Android de 32 bits: instala `AstraTV-armeabi-v7a.apk`.
-
-Después, cada equipo se actualiza solo con el mismo tipo que instalaste.
-
-**Requisitos:** Android 8 o más nuevo y Android System WebView 120 o más nuevo (en Android 8 y 9, suele ser Google Chrome el que hace de WebView). Si el de tu equipo es más antiguo, Astra TV te lo dice al abrirse, con un botón a Google Play.
-
-<br />
-
-## Siempre al día
-
-Astra TV busca versiones nuevas al abrirse y cada 6 horas. Antes de instalar una, comprueba su firma digital (ed25519) con la clave incluida en la aplicación; si no coincide, la descarta. En Windows solo te pide reiniciar; en Android abre el instalador del sistema, que acepta la versión nueva solo si viene firmada con la misma clave.
-
-Puedes desactivar la búsqueda automática en **Ajustes › Acerca de** y buscar a mano cuando quieras. Si alguna versión empieza de cero, el aviso de actualización lo dice antes que nada, para que exportes tus listas primero (en la TV, anota el servidor, el usuario y la contraseña de cada una).
-
-<br />
-
-## Tus datos, en tu equipo
-
-Listas, catálogo, favoritos, historial y ajustes se guardan en tu equipo: en Windows, en `%LOCALAPPDATA%\app.astratv.desktop`; en Android, en los datos de la aplicación. Para empezar de cero, en cualquier equipo, usa **Ajustes › Datos › Borrar todos los datos**.
-
-Para llevar tus listas a otro equipo, expórtalas en **Ajustes › Listas › Exportar** a un archivo `.astra` e impórtalo allá, desde la bienvenida o desde **Ajustes › Listas › Importar**. En la TV, que no tiene selector de archivos, estas opciones no aparecen.
-
-> [!WARNING]
-> El archivo `.astra` incluye las contraseñas de tus listas en texto legible. Guárdalo como guardarías una contraseña y compártelo solo por un canal privado.
-
-<br />
-
 ## Verificar la descarga
 
 Cada archivo se publica junto a su huella SHA-256: `AstraTV.exe.sha256`, `AstraTV-arm64-v8a.apk.sha256` y `AstraTV-armeabi-v7a.apk.sha256`. Compruébala en PowerShell, en la carpeta de la descarga:
@@ -286,7 +286,7 @@ Cada archivo se publica junto a su huella SHA-256: `AstraTV.exe.sha256`, `AstraT
 Get-Content .\AstraTV.exe.sha256
 ```
 
-Si el primer valor coincide con el comienzo del segundo, el archivo es exactamente el que se publicó.
+Si el primer valor coincide con el comienzo del segundo, el archivo es exactamente el que se publicó. Para un APK descargado en el PC, cambia el nombre del archivo en los dos comandos.
 
 <br />
 
