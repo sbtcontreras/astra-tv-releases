@@ -256,8 +256,9 @@ Para llevar tus listas a otro equipo, expórtalas en **Ajustes › Listas › Ex
 
 | Tecla | Acción |
 |---|---|
-| <kbd>↑</kbd> <kbd>↓</kbd> | Recorrer los canales |
-| <kbd>Intro</kbd> | Ver en pantalla completa |
+| <kbd>↑</kbd> <kbd>↓</kbd> | Recorrer los canales sin cambiar el que ves |
+| <kbd>Intro</kbd> | Ver el canal elegido; en el que ya ves, abrir el reproductor |
+| <kbd>Esc</kbd> | Volver al canal que estás viendo |
 | <kbd>F</kbd> | Agregar o quitar de Favoritos |
 | <kbd>G</kbd> | Canales o Guía |
 
