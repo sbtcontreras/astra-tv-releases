@@ -15,7 +15,7 @@ en tu PC con Windows, tu TV con Android, tu tablet y tu celular.
 <a href="https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV.exe"><img src="https://img.shields.io/badge/Windows-AstraTV.exe-8b5cf6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTMgM2g4LjV2OC41SDN6TTEyLjUgM0gyMXY4LjVoLTguNXpNMyAxMi41aDguNVYyMUgzek0xMi41IDEyLjVIMjFWMjFoLTguNXoiLz48L3N2Zz4%3D&labelColor=1b1640" alt="Descargar para Windows" height="44" /></a>
 <a href="https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV-arm64-v8a.apk"><img src="https://img.shields.io/badge/Android_64_bits-AstraTV--arm64--v8a.apk-8b5cf6?style=for-the-badge&logo=android&logoColor=white&labelColor=1b1640" alt="Descargar para Android de 64 bits" height="44" /></a>
 
-<sub>¿Una TV box o un equipo de 32 bits? Descarga <a href="https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV-armeabi-v7a.apk"><code>AstraTV-armeabi-v7a.apk</code></a> · <a href="#64-o-32-bits">¿Cuál es el mío?</a></sub>
+<sub>¿Una TV box o un equipo de 32 bits? Descarga <a href="https://github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV-armeabi-v7a.apk"><code>AstraTV-armeabi-v7a.apk</code></a> · <a href="#64-o-32-bits">¿Cuál es el mío?</a><br />En la TV, con <a href="#en-android"><i>Downloader</i></a>: <b>7809345</b> (64 bits) o <b>7173042</b> (32 bits)</sub>
 
 <br />
 <br />
@@ -125,7 +125,7 @@ Astra TV reconoce cada título en TMDB, sin que configures nada: su ficha trae l
 
 - **Con el control remoto.** Las flechas llevan a lo más cercano en esa dirección; OK abre y, mantenido, muestra el menú de lo que tienes enfrente. CH+ y CH− cambian de canal y Atrás cierra lo abierto o vuelve atrás. Astra TV aparece en el inicio de Android TV.
 - **Con el dedo.** Un toque muestra u oculta los controles del reproductor, dos toques en una mitad adelantan o retroceden 10 s, y deslizar hacia abajo sale del reproductor.
-- **En el celular,** Inicio, TV en vivo, Películas, Series y Biblioteca van en pestañas abajo y la aplicación llega de borde a borde. Se usa en vertical, y el reproductor se pone horizontal solo.
+- **En el celular y la tablet,** la aplicación llega de borde a borde y gira: con el celular de pie, Inicio, TV en vivo, Películas, Series y Biblioteca van en pestañas abajo; acostado, lleva la barra lateral, como la tablet. En el celular, el reproductor se pone horizontal solo.
 - **Ventana flotante.** En la tablet y el celular, si sales de la aplicación desde el reproductor, lo que ves sigue en la ventana flotante de Android. Para seguir viendo mientras navegas, activa *Seguir viendo en miniatura* en *Ajustes › Reproducción*.
 
 <br />
@@ -171,17 +171,14 @@ La primera vez, Windows puede mostrar *«Windows protegió su PC»*: haz clic en
 2. Ábrelo. Android te pide permitir que el navegador (o *Archivos*) instale apps: actívalo y elige **Instalar**.
 3. Abre Astra TV y agrega tu lista.
 
-**En una TV sin navegador**, instala *Downloader* desde Google Play, permítele instalar apps y escribe la dirección del APK. Para el de 64 bits:
+**En una TV sin navegador**, instala *Downloader* desde Google Play (o desde la Appstore de Amazon, en Fire TV), permítele instalar apps y escribe con el control el código del APK:
 
-```
-github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV-arm64-v8a.apk
-```
+| | Código en *Downloader* | En un navegador |
+|---|---|---|
+| **64 bits** | **`7809345`** | `aftv.news/7809345` |
+| **32 bits** | **`7173042`** | `aftv.news/7173042` |
 
-Para el de 32 bits:
-
-```
-github.com/sbtcontreras/astra-tv-releases/releases/latest/download/AstraTV-armeabi-v7a.apk
-```
+Cada código lleva siempre a la última versión.
 
 #### ¿64 o 32 bits?
 
