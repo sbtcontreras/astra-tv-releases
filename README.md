@@ -189,7 +189,7 @@ Los dos APK hacen exactamente lo mismo; cambia solo el tipo de Android que neces
 
 Después, cada equipo se actualiza solo con el mismo tipo que instalaste.
 
-**Requisitos:** Android 8 o más nuevo y Android System WebView 120 o más nuevo (en Android 8 y 9, suele ser Google Chrome el que hace de WebView). Si el de tu equipo es más antiguo, Astra TV te lo dice al abrirse, con un botón a Google Play.
+**Requisitos:** Android 8 o más nuevo y Android System WebView 119 o más nuevo (en Android 8 y 9, suele ser Google Chrome el que hace de WebView). Si el de tu equipo es más antiguo, Astra TV te lo dice al abrirse, con un botón a Google Play.
 
 <br />
 
@@ -311,7 +311,7 @@ Si probaste el de 64 bits, tu equipo usa Android de 32 bits: instala <a href="
 <details>
 <summary><b>Al abrirla, me pide actualizar Android System WebView.</b></summary>
 <br />
-Astra TV dibuja su interfaz con el WebView de Android, y necesita la versión 120 o más nueva. Elige <b>Abrir Google Play</b>, actualízalo (en Android 8 y 9, actualiza también Google Chrome) y vuelve a abrir Astra TV. Algunas TV box sin Google Play no pueden actualizarlo; en ellas Astra TV no funciona.
+Astra TV dibuja su interfaz con el WebView de Android, y necesita la versión 119 o más nueva. Elige <b>Abrir Google Play</b>, actualízalo (en Android 8 y 9, actualiza también Google Chrome) y vuelve a abrir Astra TV. Muchas TV box no certificadas por Google no pueden actualizarlo, aunque tengan Google Play: siguen usando el WebView que traen de fábrica, y en ellas Astra TV no funciona.
 </details>
 
 <details>
